@@ -28,7 +28,7 @@ Checkpoints trained on [Dress Code](https://github.com/aimagelab/dress-code) (76
 1. Clone the repository
 
 ```sh
-git clone https://github.com/levihsu/OOTDiffusion
+git clone https://github.com/zohaibhassan00/virtualtryon
 ```
 
 2. Create a conda environment and install the required packages
